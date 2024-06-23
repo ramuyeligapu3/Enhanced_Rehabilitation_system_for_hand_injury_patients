@@ -1,0 +1,5 @@
+opencv-python==4.6.0.66
+mediapipe==0.10.9
+cvzone==1.6.1
+pyserial==3.5
+Pillow==9.4.0
